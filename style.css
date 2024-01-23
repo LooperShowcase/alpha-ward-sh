@@ -1,0 +1,44 @@
+h1 { color: brown;  }
+   body{ background-color: #2bdce2; }
+ div { background-color: cornsilk; }
+p { color: black; }
+#paris{
+  background-color: rgb(242, 206, 4);
+}
+#old{ background-color: rgb(255, 255, 255); }
+body {font-family: 'Edu SA Beginner', cursive;
+  font-family: 'Handjet', cursive;
+  font-family: 'Lobster', cursive;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Rajdhani', sans-serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;  }
+  #bar { background-color: rgba(255, 255, 255, 0.93);
+   }
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #000000;
+    }
+  #nav {
+      float: left;
+    }
+  
+    #nav {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+  
+    #nav :hover {
+      background-color: #111;
+    }
+
+    #Teams{
+      float:none;
+      list-style-type: disc;
+      background-color:white ;
+    }
